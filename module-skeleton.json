@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-markets-dart-desktop",
+  "capabilityKey": "planned:ecommerce:markets",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_markets_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/markets.md",
+  "presentationPlan": "projects/ecommerce/features/markets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
